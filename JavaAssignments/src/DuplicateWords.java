@@ -1,4 +1,8 @@
 import java.util.*;
+
+/*
+ * Sample Comment
+ */
 public class DuplicateWords {
 
 	public static void main(String[] args)
